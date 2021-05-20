@@ -8,3 +8,8 @@ However, we noticed that the information provided by the .xlsx file regarding th
 We received the switches' configuration and our job was to manually check whether the VLANs from our .xlsx file were the same ones that were configured on the switches.
 
 This script replicates the enviornment (.xlsx file being file.csv) along with two puppet configs and eliminates the need to manually check hundreds of interfaces on dozens of switches to see whether they were correctly registered in the large .xlsx file. 
+
+Usage:
+Create a "config" folder and rename the .txt files as shown. Then, in the script, modify the "path" variable from the main function.
+
+The file "expected_output" shows the expected output after the script has been run.
