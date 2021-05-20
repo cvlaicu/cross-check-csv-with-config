@@ -1,0 +1,63 @@
+#####junk#######
+#####junk#######
+#####junk#######
+#####junk#######
+#####junk#######
+#####junk#######
+#####junk#######
+#####junk#######
+#####junk#######
+#####junk#######
+#####junk#######
+#####junk#######
+interface Ten-GigabitEthernet1/0/1
+##junk####junk####junk##
+##junk##
+port access vlan 100
+#####junk#######
+#####junk############junk#######
+#####junk############junk#######
+#####junk############junk#######
+#####junk#######
+123312413241
+123312413241123312413241123312413241123312413241123312413241123312413241
+123312413241123312413241
+123312413241
+interface Ten-GigabitEthernet1/0/2
+junk
+junk
+port access vlan 1201
+####junk####
+####junk####
+####junk####
+####junk####
+####junk####
+####junk####
+####junk####
+####junk####
+####junk####
+####junk####
+####junk####
+####junk####
+####junk####
+####junk####
+####junk####
+####junk####
+####junk####
+####junk####
+####junk####
+interface Ten-GigabitEthernet1/0/3
+#junk#
+#junk#
+port access vlan 1202
+###junk####
+####junk####
+####junk####
+####junk####
+####junk####
+####junk####
+####junk####
+interface Ten-GigabitEthernet1/0/4
+#junk#
+1234
+port access vlan 1203
