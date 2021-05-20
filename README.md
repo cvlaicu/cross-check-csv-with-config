@@ -1,5 +1,5 @@
 # cross-check-csv-with-config
-A script that cross checks the information from a CSV report with the actual device configuration. 
+A script that cross checks the information from a .CSV report with the actual device configuration. 
 
 Scenario: 
 We were provided with a large .xlsx file containing details regarding server hostname, the switch interface to which the server was connected and the VLAN number that was configured on the switch interface.
